@@ -37,14 +37,14 @@ const styles = theme => ({
       textDecoration: "none"
     },
     [sizes.down("xs")]: {
-      marginRight: "0.5rem"
+        marginRight: "0.5rem"
     }
   },
   button: {
     margin: "0 0.5rem",
     [sizes.down("xs")]: {
-      margin: "0 0.2rem",
-      padding: "0.3rem"
+        margin: "0 0.2rem",
+        padding: "0.3rem"
     }
   }
 });
